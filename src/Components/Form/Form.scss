@@ -1,0 +1,30 @@
+.Form {
+  .ftheader {
+    h1 {
+      font-weight: 500;
+    }
+  }
+
+  .fradio {
+    p {
+      font-size: 1.1rem;
+      font-weight: 600;
+    }
+    input {
+      margin: 15px;
+    }
+  }
+  .aaa {
+    margin: 15px;
+    a {
+      margin: 20px;
+      padding: 5px 15px;
+      background-color: rgb(15, 136, 235);
+      border-radius: 10px;
+      font-size: medium;
+      cursor: pointer;
+      color: white;
+      text-decoration: none;
+    }
+  }
+}

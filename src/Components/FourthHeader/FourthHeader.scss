@@ -1,0 +1,22 @@
+.foheader{
+    width: auto;
+    min-height: 40px;
+    padding-top: 10px;
+    background-color: white;
+    padding-left: 40px;
+    border-bottom: 2px solid blue;
+
+    a{
+        text-decoration: none;
+        color: black;
+        margin: 20px;
+        padding: 5px 5px;
+        border-radius: 10%;
+        
+        
+    }
+    a:hover{
+        background-color: lightgray;
+        text-decoration: underline;
+    }
+}
