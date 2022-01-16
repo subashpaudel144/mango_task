@@ -8,6 +8,7 @@ function FourthHeader() {
             <a href="/submitticket">Submit a Ticket</a>
             <a href="/knowledgebase">knowledgebase</a>
             <a href="/news">News</a>
+            <a href="/adminpanel">Admin Panel</a>
         </div>
     )
 }
