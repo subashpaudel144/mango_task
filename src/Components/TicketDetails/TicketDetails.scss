@@ -1,0 +1,95 @@
+.Ticket{
+    
+    .Theading{
+
+        h1{        
+        font-size: 1 rem;
+        font-weight: 500;
+        }
+    }
+    .info{
+        font-size: 1rem;
+        font-weight: 500;
+        
+        label{
+            margin-top: 15px;
+            
+            
+            
+        }
+        input{
+            margin-top: 10px;
+            margin-bottom: 10px;
+            width: 60%;
+            min-height: 30px;
+            border-radius: 10px;
+            padding: 3px;
+            font-size: medium;
+        }
+    }
+
+    .message{
+        font-size: 1rem;
+        font-weight: 500;
+
+        label{
+            margin-top: 15px;
+            
+            
+            
+        }
+        input{
+            margin-top: 10px;
+            margin-bottom: 10px;
+            width: 60%;
+            min-height: 30px;
+            border-radius: 10px;
+            padding: 3px;
+            font-size: medium;
+        }
+        textarea{
+            margin-top: 10px;
+            margin-bottom: 10px;
+            width: 60%;
+            min-height: 30px;
+            border-radius: 10px;
+            padding: 3px;
+            font-size: large;
+        }
+    }
+    .file{
+        margin-top: 10px;
+        padding: 5px;
+        font-size: 1.2rem;
+
+        input{
+            margin-left: 10px;
+            font-size: large;
+        }
+    }
+
+    .notes{
+        margin-top: 15px;
+        font-size: large;
+    }
+
+    .submit{
+        margin-top: 15px;
+        margin-bottom: 20px;
+
+        button{
+            padding: 10px 15px;
+            background-color: rgb(125, 6, 236);
+            border-radius: 10px;
+            color: white;
+            font-size: large;
+        }
+
+        button:hover{
+            cursor: pointer;
+            background-color: rgb(24, 15, 4);
+        }
+    }
+
+    
+}
