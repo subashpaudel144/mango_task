@@ -11,6 +11,7 @@ import TicketDetails from "./Components/TicketDetails/TicketDetails";
 import Knowledgebase from "./Components/Knowledgebase/Knowledgebase";
 import Home from "./Components/Home/Home";
 import News from "./Components/News/News";
+import Admin from "./Components/Admin/Admin";
 
 function App() {
   return (
@@ -32,6 +33,7 @@ function App() {
               <Route path="/ticketdetails" element={<TicketDetails />} />
               <Route path="/knowledgebase" element={<Knowledgebase />} />
               <Route path="/news" element={<News />} />
+              <Route path="/adminpanel" element={<Admin />} />
             </Routes>
           </div>
         </div>
